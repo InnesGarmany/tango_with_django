@@ -27,7 +27,7 @@ SECRET_KEY = 't1otm)z38wxhsa+m2fsk#qdxs+1_m3=ld%$=1^53i(7njy-2()'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['Jokaire.pythonanywhere.com']
 
 
 # Application definition
